@@ -12,7 +12,7 @@ redirect_from:
 __<span style="color:#2B547E;">Education</span>__
 ======
 * Ph.D in Aix-Marseille University, Aix-Marseille, 2015-2018.
-* Master of Science in Industrial Engineering (dual degree), École des Mines de Saint-Étienne, France, 2013-2014.
+* Master of Science in Industrial Engineering (dual degree), École Nationale Supérieure des Mines de Saint-Étienne, France, 2013-2014.
 * Engineering degree in Industrial and Production Engineering, The first Moroccan Design and Technology engineering school (ENSAM), Meknes, Morocco, 2009-2014.
 
 __<span style="color:#2B547E;">Work experience</span>__
