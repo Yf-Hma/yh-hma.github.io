@@ -17,13 +17,13 @@ __<span style="color:#2B547E;">Education</span>__
 
 __<span style="color:#2B547E;">Work experience</span>__
 ======
-* September 2023 – Present Assistant Professor - Ai Movement, UM6P, Rabat, Morocco.
+* September 2023 – Present, Assistant Professor - Ai Movement, UM6P, Rabat, Morocco.
 
 * September 2021 – September 2023, Research Engineer - Ai Movement, UM6P, Rabat, Morocco.
 
-<!-- * June 2021 – August 2021 Data Scientist - United Crocos, Marseille, France. -->
+<!-- * June 2021 – August 2021, Data Scientist - United Crocos, Marseille, France. -->
 
-* 2019 – 2021 Postdoctoral Researcher - Computer Science and Systems Laboratory (LIS), Speech and Language Laboratory (LPL), France.
+* 2019 – 2021, Postdoctoral Researcher - Computer Science and Systems Laboratory (LIS), Speech and Language Laboratory (LPL), France.
 
 __<span style="color:#2B547E;">Ph.D co-supervisions</span>__
 ======
