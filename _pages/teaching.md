@@ -37,7 +37,7 @@ author_profile: true
 
 ---
 
-### <span style="color:#2B547E;"><strong>AI Movement – UM6P</strong></span>
+### <span style="color:#2B547E;"><strong>Ai Movement – UM6P</strong></span>
 <span style="color:#3B3B3B;"><em>Instructor</em></span>
 <span style="color:#6A737D;">2021 – Present</span>
 - General training and executive master’s program in Artificial Intelligence Governance and Practice.
